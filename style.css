@@ -62,6 +62,8 @@ body{
 .operator:active, .number:active{
     font-size: 18px;
 }
+.operator:focus, .number:focus, .empty:focus{
+	outline: 0;
 .operator:nth-child(4){
     background-color:darkgreen ;
     font-size: 20px;
