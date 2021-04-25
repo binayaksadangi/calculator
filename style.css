@@ -3,7 +3,7 @@ body{
     background-color: cyan;
 }
 .container{
-    background-color: azure;
+    background-color:khaki;
     height: 550px ;
     width: 1000px;
     margin: 100px auto;
@@ -63,7 +63,7 @@ body{
     font-size: 18px;
 }
 .operator:focus, .number:focus, .empty:focus{
-	outline: 0;
+	outline: 0;}
 .operator:nth-child(4){
     background-color:darkgreen ;
     font-size: 20px;
